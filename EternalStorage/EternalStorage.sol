@@ -3,6 +3,8 @@
 
 pragma solidity 0.4.21;
 
+
+
 contract EternalStorage {
 
     address owner = msg.sender;
