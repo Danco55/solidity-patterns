@@ -2,7 +2,7 @@
 // safety or correctness. Use at own risk.
 
 pragma solidity ^0.4.20;
-
+  
 contract MemoryArrayBuilding {
 
     struct Item {
